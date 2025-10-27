@@ -1,0 +1,5 @@
+{
+  "name": "Plantopia",
+  "description": "An interactive guide for hostel students to successfully grow and maintain plants in their limited space. Get personalized plant suggestions based on your room's conditions and set reminders to never miss a watering day.",
+  "requestFramePermissions": []
+}
